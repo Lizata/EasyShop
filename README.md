@@ -6,6 +6,7 @@ Greetings from the most Easy-Shop (Take that Literal). This API commerce applica
 # Features:
 Categories: products categorized in sections for easy navigation
 Controller classes: Holds products information along with categories and shopping cart
+Databases with SQL functions: expresses SQL lines in Java mode and tests
 
 # Catch The Setup:
 1. Clone this Repo
@@ -22,3 +23,7 @@ Postman
 
 Intellij
 ![image](https://github.com/Lizata/EasyShop/assets/147072859/b4dca363-01d7-4493-b0ae-fe2967f9298d)
+
+# Acknowledgments
+Shoutout to Paul is with... well he's everywhere
+Credits:INTELIJ for being intelligent, POSTMAN for always delivering, Lastly MYSQL for preparing the sequel
