@@ -10,6 +10,15 @@ Controller classes: Holds products information along with categories and shoppin
 
 Databases with SQL functions: expresses SQL lines in Java mode and tests
 
+# Phase 1- Categories controller class edits
+- put into effects different methods
+- gave Admin acess to categories
+- Many uses of annotations
+
+# Phase 2- Fix bugs
+- Fixed some minor bugs in the ProductController class
+
+
 # Catch The Setup:
 1. Clone this Repo
 2. Open the project in desired terminal
