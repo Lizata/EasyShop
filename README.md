@@ -5,7 +5,9 @@ Greetings from the most Easy-Shop (Take that Literal). This API commerce applica
 
 # Features:
 Categories: products categorized in sections for easy navigation
+
 Controller classes: Holds products information along with categories and shopping cart
+
 Databases with SQL functions: expresses SQL lines in Java mode and tests
 
 # Catch The Setup:
