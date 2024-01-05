@@ -1,7 +1,8 @@
 ### Easy Shop API Commerce Application
 
 # Overview
-Greetings from the most Easy-Shop (Take that Literal). This API commerce application provides a seamless mix of managing products, orders, customers,etc along with several e-commerce purposes
+Greetings from the most Easy-Shop (Take that Literal). This API commerce application provides a seamless mix of managing products, orders, customers,etc along with several e-commerce purposes. 
+The set of endpoints manages products, orders, customers etc and support two phases of development.
 
 # Features:
 Categories: products categorized in sections for easy navigation
